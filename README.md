@@ -47,7 +47,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmostafamunna)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmostafamunna)](https://github.com/mdmostafamunna)
 
 <!--END_SECTION:activity-->
 
