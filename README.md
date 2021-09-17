@@ -1,58 +1,26 @@
-### Hi there, I'm Munna 👋
+### Hi there 👋, MD Mostafa Munna
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+Skills: Java/ Python/
 
-## I'm a Software Test Engineer
-
-- 🌱 I’m currently learning Software Automation 
-- I'm working as a Jr. Software Test Engineer at Mediusware Ltd.
-
-<!-- ### Connect with me:
-
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] --> -->
-
-<br />
-
-### Languages and Tools:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmostafamunna&layout=compact)](https://github.com/mdmostafamunna)
+- 🔭 I’m currently working on Jr. Software Test Automation Engineer at Mediusware Ltd. 
+- 🌱 I’m currently learning Software Automation Testing 
+- 📫 How to reach me: Email: mdmostafamunna.sqa@gmail.com 
 
 
-<br />
-<br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdmostafamunna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdmostafamunna/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/munna1740)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/munna_pt/)  
 
----
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mdmostafamunna)](https://github.com/ryo-ma/github-profile-trophy)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmostafamunna)](https://github.com/mdmostafamunna)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mdmostafamunna)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--END_SECTION:activity-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mdmostafamunna&show_icons=true&count_private=true)  
 
-</details>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/mdmostafamunna)  
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/mdmostafamunna)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/mdmostafamunna)  
 
-
-<!-- </details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+![Profile views](https://gpvc.arturio.dev/https://github.com/mdmostafamunna)  
