@@ -1,5 +1,5 @@
-- 💞️ I’m currently working as a Jr. Software Test Engineer at Mediusware LTD.
 - 👋 Hi, I’m Munna
+- 💞️ I’m currently working as a Jr. Software Test Engineer at Mediusware LTD.
 - 👀 I’m interested in Software Test Engineering.
 - 🌱 I’m currently learning Software Automation.
 
