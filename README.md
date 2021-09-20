@@ -57,32 +57,32 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RashidulHasanRatul&label=Profile%20views&color=0e75b6&style=flat" alt="RashidulHasanRatul" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmostafamunna&label=Profile%20views&color=0e75b6&style=flat" alt="mdmostafamunna" /> </p>  
   
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> *Github Stats:*
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RashidulHasanRatul&theme=algolia&hide_border=false"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmostafamunna&theme=algolia&hide_border=false"/>
 </p>
 
  <p align="center">
-  <a href="https://github.com/RashidulHasanRatul">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=RashidulHasanRatul&show_icons=true&theme=algolia&count_private=true">
+  <a href="https://github.com/mdmostafamunna">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mdmostafamunna&show_icons=true&theme=algolia&count_private=true">
   </a>
-  <a href="https://github.com/RashidulHasanRatul">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RashidulHasanRatul&layout=compact&theme=algolia&langs_count=8" />
+  <a href="https://github.com/mdmostafamunna">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mdmostafamunna&layout=compact&theme=algolia&langs_count=8" />
   </a>
  </p>
 
-Visit my [Portfolio](http://habib.info.bd)
+Visit my [Portfolio](/)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://rashidulhasan.me/"><img alt="PortFolio" src="https://img.shields.io/badge/rashidulhasan.me-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/rashidulhasan278/"><img alt="LinkedIn" src="https://img.shields.io/badge/rashidulhasan278-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<!-- <a href="https://rashidulhasan.me/"><img alt="PortFolio" src="https://img.shields.io/badge/rashidulhasan.me-Portfolio-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/mdmostafamunna/"><img alt="LinkedIn" src="https://img.shields.io/badge/mdmostafamunna-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
 <a href="https://www.facebook.com/RashidulHasanRatul/"><img alt="Facebook" src="https://img.shields.io/badge/RashidulHasanRatul-facebook-blue?style=flat&logo=facebook"></a>
-<a href="mailto:rashidulhasan.swe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rashidulhasan.swe@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mdmostafamunna.sqa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rashidulhasan.swe@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <br/>
