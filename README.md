@@ -9,7 +9,8 @@ A passionate Software Test Engineer 🚀
 - 💻 &nbsp; ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
 
 
 - 🌐 &nbsp; 
@@ -21,7 +22,7 @@ A passionate Software Test Engineer 🚀
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-black?style=flat-square&logo=JMeter)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
 
 - 🛢 &nbsp; 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
@@ -81,8 +82,8 @@ Visit my [Portfolio](/)
 <p align="center">
 <!-- <a href="https://rashidulhasan.me/"><img alt="PortFolio" src="https://img.shields.io/badge/rashidulhasan.me-Portfolio-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/mdmostafamunna/"><img alt="LinkedIn" src="https://img.shields.io/badge/mdmostafamunna-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/RashidulHasanRatul/"><img alt="Facebook" src="https://img.shields.io/badge/RashidulHasanRatul-facebook-blue?style=flat&logo=facebook"></a>
-<a href="mailto:mdmostafamunna.sqa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rashidulhasan.swe@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.facebook.com/RashidulHasanRatul/"><img alt="Facebook" src="https://img.shields.io/badge/Munna Patwary-facebook-blue?style=flat&logo=facebook"></a>
+<a href="mailto:mdmostafamunna.sqa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mdmostafamunna.sqa@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <br/>
