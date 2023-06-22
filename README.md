@@ -7,7 +7,7 @@ A passionate Software Test Engineer 🚀
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;
-![C#](https://img.shields.io/badge/-Python-black?style=flat-square&logo=c#)
+![C#](https://img.shields.io/badge/-Python-black?style=flat-square&logo=CSharp)
 
 
 
