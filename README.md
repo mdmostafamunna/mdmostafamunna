@@ -6,27 +6,19 @@ A passionate Software Test Engineer 🚀
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+- 💻 &nbsp;
+![C#](https://img.shields.io/badge/-Python-black?style=flat-square&logo=c#)
 
 
 
 - 🌐 &nbsp; 
-![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=Cypress)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
-![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=TestNG)
-![Cucumebr](https://img.shields.io/badge/-Cucumber-black?style=flat-square&logo=Cucumber)
-![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=Appium)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-black?style=flat-square&logo=JMeter)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
 - 🛢 &nbsp; 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQL Server](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=sql)
 
 
 
